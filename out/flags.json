@@ -1,0 +1,17 @@
+[
+ {
+  "zone": "dairy",
+  "type": "PASS-THROUGH",
+  "reason": "dairy: 3 visitors but only 0% stay >= 5s -> traffic without engagement"
+ },
+ {
+  "zone": "",
+  "type": "DEAD ZONE",
+  "reason": ": only 0 visitors vs zone average 2 -> ignored area"
+ },
+ {
+  "zone": "cacash",
+  "type": "PASS-THROUGH",
+  "reason": "cacash: 4 visitors but only 0% stay >= 5s -> traffic without engagement"
+ }
+]

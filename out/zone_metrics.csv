@@ -1,0 +1,4 @@
+zone,visitors,avg_dwell_s,browsers,avg_occupancy,p90_occupancy,peak_occupancy,median_speed,browse_rate
+dairy,3,1.0,0,1.0,1.0,1,0.083,0.0
+,0,0.0,0,0.0,0.0,0,0.0,0.0
+cacash,4,1.3,0,1.0,1.0,1,0.081,0.0
